@@ -118,3 +118,11 @@ i{
     }
     
 }
+
+@media (min-width: 768px) and (max-width: 1060px) {
+    .card {
+        width: 150px;
+        height: 100px;
+        font-size: 28px;
+    }
+}
